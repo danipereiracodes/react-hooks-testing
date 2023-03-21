@@ -7,3 +7,13 @@ body {
 button {
     margin-right:20px;
 }
+
+.item-done {
+    text-decoration: line-through;
+    cursor: pointer;
+}
+
+.item-not-done {
+    text-decoration: none;
+    cursor: pointer;
+}
